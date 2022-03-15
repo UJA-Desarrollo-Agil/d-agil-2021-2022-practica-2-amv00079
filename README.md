@@ -33,6 +33,8 @@ He usado los lenguajes de programación CSS, HTML y JavaScript.
 
 ## 2. Descripción del juego
 
+![Captura](https://user-images.githubusercontent.com/99323139/158455645-19bd977c-83de-4d51-83e1-126034b78899.PNG)
+
 El juego que he creado está basado en los tres requisitos propuestos por el profesor,
 en el que el personaje tenía que salir de casa, ver un espectáculo y volver a casa.
 En mi caso, el personaje está en casa, queda con sus amigos para ir al cine y vuelve a casa.
