@@ -1,6 +1,6 @@
 # DESARROLLO ÁGIL
 # Práctica 2: UNDUM
-![book_bg1](https://user-images.githubusercontent.com/99323139/158445565-787ef1ff-0a4c-4226-bb75-d6e489a207eb.png)
+![book_bg1](https://user-images.githubusercontent.com/99323139/158445565-787ef1ff-0a4c-4226-bb75-d6e489a207eb.png) 
 
 
 ## Andrea Marín Verdejo
@@ -10,9 +10,16 @@
 * **GitHub**: https://github.com/amv00079
 * **Trello**: https://trello.com/amv00079
 
+
 ## Índice: 
-1. Introducción
-2. Descripción del juego
+  * [1. Introducción](#1-introducción)
+  * [2. Descripción del juego](#2-descripción-del-juego)
+  * [3. Estilo del juego](#3-estilo-del-juego)
+  * [4. Escenarios](#4-escenarios)
+  * [5. URL del tablero de Trello](#5-url-del-tablero-de-trello)
+  * [6. Capturas de pantalla de Trello](#6-capturas-de-pantalla-de-trello)
+  * [7. Capturas de pantalla de Telegram](#7-capturas-de-pantalla-de-telegram)
+
 
 ## 1. Introducción
 
@@ -32,12 +39,12 @@ En mi caso, el personaje está en casa, queda con sus amigos para ir al cine y v
 Para enlazar los escenarios y crear el juego he utilizado HTML y JavaScript.
 
 
-## 3. Estilo del juego:
+## 3. Estilo del juego
 
 Para el estilo de este juego he utilizado CSS.
 
 
-## 4. Escenarios: 
+## 4. Escenarios
 
 * **Salir de casa**: Mi personaje debe elegir entre ir en autobús o ir andando
 * **Ir al cine**: En el cine debe decidir qué película ver y si quiere comprar algo
