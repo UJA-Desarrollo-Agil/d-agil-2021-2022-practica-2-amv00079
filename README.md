@@ -10,7 +10,9 @@
 * **GitHub**: https://github.com/amv00079
 * **Trello**: https://trello.com/amv00079
 
-
+## Índice: 
+1. Introducción
+2. Descripción del juego
 
 ## 1. Introducción
 
@@ -67,3 +69,9 @@ Ilustración 5: Final de la práctica
 
 
 ## 7. Capturas de pantalla de Telegram 
+En la siguiente imagen se muestra la vinculación de GitHub con Telegram y cómo aparece un mensaje cada vez que se produce un cambio.
+![Captura2](https://user-images.githubusercontent.com/99323139/158451514-9915e98c-a3b6-4aab-a758-f3fd710de047.PNG)
+Ilustración 6: GitHub en Telegram
+
+
+
